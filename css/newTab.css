@@ -128,6 +128,7 @@ body {
 .only-mobile {
   display: none;
 }
+
 .mobile-top-view {
   height: 58px;
   background: #1c1c1c;
@@ -151,6 +152,9 @@ body {
   .exten-con-left img {
     width: 100%;
     height: 100%;
+  }
+  .only-desktop {
+    display: none;
   }
   .exten-con-left {
     text-align: right;
