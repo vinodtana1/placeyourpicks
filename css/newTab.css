@@ -156,6 +156,15 @@ body {
   .only-desktop {
     display: none;
   }
+  .sec-top-full {
+    height: 60vh;
+  }
+  .background {
+    height: 60vh;
+  }
+  .sec-bottom-full h3 {
+    margin-top: 70px;
+  }
   .exten-con-left {
     text-align: right;
     padding-top: 120px;
